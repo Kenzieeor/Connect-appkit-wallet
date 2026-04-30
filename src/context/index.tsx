@@ -13,7 +13,7 @@ const queryClient = new QueryClient();
 const metadata = {
   name: "next-reown-appkit",
   description: "next-reown-appkit",
-  url: "https://github.com/0xonerb/next-reown-appkit-ssr", // origin must match your domain & subdomain
+  url: "https://connect-appkit-wallet.netlify.app", // origin must match your domain & subdomain
   icons: ["https://avatars.githubusercontent.com/u/179229932"],
 };
 
